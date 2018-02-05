@@ -10,7 +10,7 @@
 #import "ServicesHub.h"
 
 static NSString * const devServerStaging = @"https://api.gettyimages.com:443/v3/";
-static NSString * const apiKey = @"4x3mqfykgft2uj2zynnw4b9w";
+static NSString * const apiKey = @"ases5k2w53xbuftt7tfjqy3j";
 
 @interface JSONService()
 
